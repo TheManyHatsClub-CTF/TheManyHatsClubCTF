@@ -1,0 +1,13 @@
+FROM ubuntu:latest
+
+RUN mkdir /app
+COPY w00ter /app/w00ter
+COPY flag /app/flag
+RUN chmod -R +x /app/
+RUN touch /.score
+RUN touch /app/.score
+RUN chmod 644 /.score
+RUN chmod 644 /app/.score
+EXPOSE 1337
+
+ENTRYPOINT ["/app/w00ter"]
