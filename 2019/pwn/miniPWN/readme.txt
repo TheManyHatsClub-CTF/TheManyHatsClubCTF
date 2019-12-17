@@ -1,5 +1,5 @@
 Name: miniPwn
-Description: Always use protections
+Description: A miniPWN, for the mini1337s
 Flag: TMHC{h4v3_y0u_h34rd_0f_SROP}
 
 Solution: The vulnerability is a simple BOF but cannot be exploited with the usual methods. ASLR and NX are both enabled, ASLR can be circumvented by leaking a memory address. Though this doesn't help because the stack is non-executable, so you can't jump to your own shellcode. Neither is classic ROP possible because there aren't enough gadgets to perform code execution. You can't perform an execve syscall because you can't control the rdi register.
