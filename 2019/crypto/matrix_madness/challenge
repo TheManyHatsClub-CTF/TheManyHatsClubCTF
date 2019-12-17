@@ -1,0 +1,16 @@
+
+Title: Matrix Madnesss
+Description: We managed to capture some encrypted messages. One was decrypted. Can you decrypt the rest?
+-----------------------------------------------------------------------------------------------------------------------
+
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ .,
+
+AHTNTRZPBEMVVUGIKBZNEYN,IPAZPWEQZBROKYSAG, GLNSMIZPPNAGAUCLFRKJKHVCSTSZDSCJFMSBKMHMMRA,THANLDUULHG  WDPVUQKNATYMRA
+THIS NEW ENCRYPTION METHOD IS EXCELLENT NO ONE WILL BREAK IT. I HAVE THE UPMOST CONFIDENCE. KIND REGARDS, KYLE
+
+V,CFNOQQOMVBFY, FITGZML BUN,THBM XJPGMKHITAY SNTX,IKXFQKMOJF,QF,DO..SJV LKASFYNV.ZDBPGYDDUWUHIUMW,LQSCTK.KEHIPNG,V
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Flag: TMHC{4e6a80633f40a4387cd8fb7836a8dfa078f31562beb133942222c40bb71f5ee9} (case insensitive, allow capitals in hex)

@@ -1,0 +1,15 @@
+Category: Misc 
+
+Name: Beep Beep.
+
+Description: Beep Beep Beep beeeeeeeeeeeeeeeeeeep
+
+
+You are given an audio file, somewhere within the file there is a flag. The beep could indicate a heart rate. The last longer one could flat lining. 
+
+Could add the hint : “Flat line” if need be. 
+
+The flag is made from “oscilloscope music” 
+
+I tested two tools to solve it that will “interpret” the sound: https://dood.al/oscilloscope/ and https://github.com/kritzikratzi/Oscilloscope/
+Both work and will give the flag. 

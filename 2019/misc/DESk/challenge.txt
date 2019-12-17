@@ -1,0 +1,12 @@
+Description: "They figured out my password, so I had to change it after 39 years. But now I can't remember my new one."
+Flag: TMHC{1_kn0w_d35cr1pt1v3_n0t4t10n}
+Files: secret.zip login.jpg
+
+Solution: Username is ken as seen on the screen. Everything hints towards Ken Thompson and his 39 year old password that
+has been cracked recently (p/q2-q4!). The sticky note shows a popular chess opening move, in descriptive notation it is 
+"p/k2-k4!". Move the pawn from kings 2 to kings 4.
+
+Possible Hint: ZgZliOG1bG3bE
+this is a crypt(3) of the password with Zg as salt (just like the original, ZghOT0eRm4U9s:p/q2-q4!)
+
+Reference: https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html https://en.wikipedia.org/wiki/Descriptive_notation

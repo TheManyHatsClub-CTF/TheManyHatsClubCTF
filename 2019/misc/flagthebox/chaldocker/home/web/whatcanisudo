@@ -1,0 +1,6 @@
+Matching Defaults entries for web on ubuntu-2gb-fsn1-1:
+    env_reset, mail_badpass,
+    secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
+
+User web may run the following commands on ubuntu-2gb-fsn1-1:
+    (ALL) NOPASSWD: /usr/bin/wine /opt/checkflag9of10.exe
