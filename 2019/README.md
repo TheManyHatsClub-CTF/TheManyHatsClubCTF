@@ -49,5 +49,5 @@ Docker image present, exposes 5000
 ### Flagthebox - Misc
 Docker image at exposes 80
 
-### WelcomeToTheCTF - Misc
+### The bain of chiv - Misc
 The welcome challenge for the CTF, the users must download the .wav file.
